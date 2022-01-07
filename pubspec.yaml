@@ -1,0 +1,26 @@
+name: deepwallkids_flutter_plugin
+description: DeepWallKids Flutter plugin.
+version: 1.0.0
+homepage: https://www.deepwall.com/
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  event_bus: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.deepwallkids.deepwallkids_flutter_plugin
+        pluginClass: DeepWallKidsFlutterPlugin
+      ios:
+        pluginClass: DeepWallKidsFlutterPlugin
