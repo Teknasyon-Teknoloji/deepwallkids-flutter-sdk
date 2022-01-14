@@ -12,7 +12,7 @@
 
 ## Getting started
 
-**NOTE**: This package has `null safety` enabled that means you need `2.12.0` or higher version of flutter.
+> **_NOTE:_** This package has `null safety` enabled that means you need `2.12.0` or higher version of flutter.
 
 Add below code into your `pubspec.yaml` file under `dependencies` section.
 
