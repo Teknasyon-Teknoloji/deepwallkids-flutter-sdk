@@ -20,7 +20,7 @@ Add below code into your `pubspec.yaml` file under `dependencies` section.
 deepwallkids_flutter_plugin:
     git:
       url: https://github.com/Teknasyon-Teknoloji/deepwallkids-flutter-sdk.git
-      ref: 1.0.0
+      ref: 1.0.1
 ```
 
 And run `$ flutter pub get`
