@@ -90,7 +90,7 @@ DeepWallKidsFlutterPlugin.updateUserProperties('fr-fr','fr');
 ```dart
 import 'package:deepwallkids_flutter_plugin/deepwallkids_flutter_plugin.dart';
 
-DeepWallKidsFlutterPlugin.validateReceipt('{API_KEY}', ReceiptValidationType.RESTORE.value);
+DeepWallKidsFlutterPlugin.validateReceipt(ReceiptValidationType.RESTORE.value);
 ```
 
 

@@ -2,7 +2,8 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased](https://github.com/Teknasyon-Teknoloji/deepwallkids-flutter-sdk/compare/1.0.1...main)
-
+### Fixed
+- Typo fix on readme file
 
 ---
 
